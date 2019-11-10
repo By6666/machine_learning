@@ -5,3 +5,5 @@
 * 02 logistic regression.
 * 03 deep learning using keras
 * 04 Train and test data split
+* 05 Gradient Descent
+* 06 PCA. Including eight test
