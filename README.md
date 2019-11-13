@@ -9,3 +9,4 @@
 * 06 PCA. Including eight test.
 * 07 Polynomial and Regularization.
 * 08 KNN.
+* 09 Estimate binary classifier and multi-classifier
