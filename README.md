@@ -10,3 +10,5 @@
 * 07 Polynomial and Regularization.
 * 08 KNN.
 * 09 Estimate binary classifier and multi-classifier
+* 10 SVM
+* 11 Decision tree
