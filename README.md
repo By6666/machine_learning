@@ -12,3 +12,4 @@
 * 09 Estimate binary classifier and multi-classifier
 * 10 SVM
 * 11 Decision tree
+* 12 Ensemble learning
